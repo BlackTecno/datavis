@@ -1,4 +1,4 @@
-[Click here for video](https://youtu.be/mcnOGgmAKZA).
+[Click here for video](https://youtu.be/v8rrPTz88pM).
 
 [Project Link](https://BlackTecno.github.io/datavis)
 
