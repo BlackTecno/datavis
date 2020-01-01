@@ -1,6 +1,6 @@
 [Click here for video](https://youtu.be/mcnOGgmAKZA).
 
-[Project Link](https://BlackTecno.github.io/)
+[Project Link](https://BlackTecno.github.io/datavis)
 
 # VisualProject
 Visualization Project for Data Visualization
