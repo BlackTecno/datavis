@@ -220,7 +220,7 @@ div.tooltip {
 
 // CSV parse
   function updateLines(selected) {
-    d3.csv('/projectData.csv', function(d) {
+    d3.csv('projectData.csv', function(d) {
       return {
         state: d.state,
         gender: d.gender,
